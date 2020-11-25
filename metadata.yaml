@@ -1,5 +1,8 @@
 _repo: Plants-Poisonous-to-Live-Stock_63788
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63788-h/images/cover.jpg
 creator:
   author:
     agent_name: Long, Harold Cecil
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52603'
     url: http://www.gutenberg.org/2009/agents/52603
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63788#Plants-Poisonous-to-Live-Stock
 gutenberg_issued: '2020-11-17'
 gutenberg_type: Text
 identifiers:
