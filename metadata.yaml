@@ -1,0 +1,27 @@
+_repo: Plants-Poisonous-to-Live-Stock_63788
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Long, Harold Cecil
+    alias: Long, Harold C.
+    birthdate: 1876
+    gutenberg_agent_id: '52603'
+    url: http://www.gutenberg.org/2009/agents/52603
+description: ''
+gutenberg_issued: '2020-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Cambridge agricultural monographs.
+subjects:
+- !lcsh 'Poisonous plants'
+- !lcc 'SF'
+- !lcsh 'Livestock poisoning plants'
+- !lcc 'SB'
+- GITenberg
+title: Plants Poisonous to Live Stock
+url: http://www.gutenberg.org/ebooks/63788
